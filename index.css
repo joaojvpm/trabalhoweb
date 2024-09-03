@@ -1,0 +1,44 @@
+.fundo{
+    background-color: #7D7D7D;
+    color: #0c0c0c;
+
+}
+
+bady {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cor{
+    background-color:  #000000;
+}    
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 17px;
+} 
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+.sobre{
+    align-items: center;
+    display: grid;
+    justify-content: center;
+}
+.sobre h3, p{
+    text-align: center;
+
+
+}
+
+.texto {
+    width: 600px;
+    height: 800px;
+}
+.imagem{
+    align-items: center;
+    display: grid;
+    justify-content: center;
+}
